@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-        <title>Hiepsikhokhao</title>
-        <description>Hiepsikhokhao - Tran Huu Loc</description>
-        <link>http://hiepsikhokhao.github.io</link>
-        <atom:link href="http://hiepsikhokhao.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 12 Oct 2015 10:46:31 +0700</lastBuildDate>
-        <pubDate>Mon, 12 Oct 2015 10:46:31 +0700</pubDate>
+        <title>Your Awesome Site</title>
+        <description>Your Awesome Site - </description>
+        <link></link>
+        <atom:link href="" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 12 Oct 2015 11:11:18 +0700</lastBuildDate>
+        <pubDate>Mon, 12 Oct 2015 11:11:18 +0700</pubDate>
         <ttl>60</ttl>
 
 
@@ -14,8 +14,8 @@
                 <title>Google Web Fonts and&lt;br&gt;Font Awesome Icons</title>
                 <description>&lt;p&gt;This template features the ‘Lato’ font, part of the &lt;a href=&quot;http://www.google.com/fonts&quot;&gt;Google Web Font library&lt;/a&gt;, as well as &lt;a href=&quot;http://fontawesome.io&quot;&gt;icons from Font Awesome&lt;/a&gt;.&lt;/p&gt;
 </description>
-                <link>http://hiepsikhokhao.github.io/services/2014/09/23/services-3</link>
-                <guid>http://hiepsikhokhao.github.io/services/2014/09/23/services-3</guid>
+                <link>/services/2014/09/23/services-3/</link>
+                <guid>/services/2014/09/23/services-3</guid>
                 <pubDate>Tue, 23 Sep 2014 00:00:00 +0700</pubDate>
         </item>
 
@@ -25,8 +25,8 @@
   product shots in seconds using free Photoshop actions by &lt;a href=&quot;http://www.psdcovers.com/&quot;&gt;PSDCovers&lt;/a&gt;! Visit
   their website to download some of their awesome, free photoshop actions!&lt;/p&gt;
 </description>
-                <link>http://hiepsikhokhao.github.io/services/2014/09/22/services-2</link>
-                <guid>http://hiepsikhokhao.github.io/services/2014/09/22/services-2</guid>
+                <link>/services/2014/09/22/services-2/</link>
+                <guid>/services/2014/09/22/services-2</guid>
                 <pubDate>Mon, 22 Sep 2014 00:00:00 +0700</pubDate>
         </item>
 
@@ -34,8 +34,8 @@
                 <title>Death to the Stock Photo:&lt;br&gt;Special Thanks</title>
                 <description>&lt;p&gt;A special thanks to &lt;a href=&quot;http://join.deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo&lt;/a&gt; for providing the photographs that you see in this template.  Visit their website to become a member!&lt;/p&gt;
 </description>
-                <link>http://hiepsikhokhao.github.io/services/2014/09/21/services-1</link>
-                <guid>http://hiepsikhokhao.github.io/services/2014/09/21/services-1</guid>
+                <link>/services/2014/09/21/services-1/</link>
+                <guid>/services/2014/09/21/services-1</guid>
                 <pubDate>Sun, 21 Sep 2014 00:00:00 +0700</pubDate>
         </item>
 

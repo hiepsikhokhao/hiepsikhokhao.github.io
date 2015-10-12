@@ -1,15 +1,14 @@
 
-http://hiepsikhokhao.github.io/archive.html
-http://hiepsikhokhao.github.io/atom.xml
-http://hiepsikhokhao.github.io/categories.html
-http://hiepsikhokhao.github.io/index.html
-http://hiepsikhokhao.github.io/index.html
-http://hiepsikhokhao.github.io/index.md.bk
-http://hiepsikhokhao.github.io/pages.html
-http://hiepsikhokhao.github.io/rss.xml
-http://hiepsikhokhao.github.io/sitemap.txt
-http://hiepsikhokhao.github.io/tags.html
+/archive/
+/atom.xml
+/categories/
+/
+/index.md.bk
+/pages/
+/rss.xml
+/sitemap.txt
+/tags/
 
-http://hiepsikhokhao.github.io/services/2014/09/23/services-3
-http://hiepsikhokhao.github.io/services/2014/09/22/services-2
-http://hiepsikhokhao.github.io/services/2014/09/21/services-1
+/services/2014/09/23/services-3/
+/services/2014/09/22/services-2/
+/services/2014/09/21/services-1/
